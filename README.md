@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Oğuz 👋 </h2>
+<h2 align="center"> Hi there, I'm Oğuz <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 > I have been developing software applications since my high school years. I started working as a computer programmer in 2016 and focused on backend development. I am currently working as a software developer.
 
